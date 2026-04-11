@@ -1,0 +1,18 @@
+# WorkBuddy 项目文件（不需要版本控制）
+.workbuddy/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 临时脚本
+test_fetch.py
+fetch_mikko*.py
+explore_author.py
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 安装包
+*.exe
